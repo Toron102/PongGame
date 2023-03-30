@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gothi
+ *
+ */
+module Pong {
+}
